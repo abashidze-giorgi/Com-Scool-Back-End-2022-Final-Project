@@ -70,3 +70,21 @@ C:\Users\Giorgi\source\repos\Final Project — копия\Final-Project-December
 C:\Users\Giorgi\source\repos\Final Project — копия\Final-Project-December-2022\WebApi-SQL_SAMPLE\Data\obj\Debug\net5.0\Data.pdb
 C:\Users\Giorgi\source\repos\Final Project — копия\Final-Project-December-2022\WebApi-SQL_SAMPLE\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
 C:\Users\Giorgi\source\repos\Final Project — копия\Final-Project-December-2022\WebApi-SQL_SAMPLE\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Domain.dll
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\bin\Debug\net5.0\Domain.pdb
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\refint\Data.dll
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\Giorgi\source\repos\Com Scool 2020 BackEnd course Final Project\Com-Scool-Back-End-2022-Final-Project\Data\obj\Debug\net5.0\ref\Data.dll

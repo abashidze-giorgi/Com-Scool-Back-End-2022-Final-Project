@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tAUtNMs5VCXG2uc0OnQ2enpFr1U42Pj8VriWw36Zv03HpI0VOoDErVEVe8qmTe4zjNvLYNs+kMtTevfvfgbfZA==",
+  "dgSpecHash": "TS/eup1fy9L5t8OVUFnUVd/b2WQiAzdRF3lzxnQVoACJCOp7k3qKh6HTsy/LTKz8DWm7a+cLKKGpPNrto8bMrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giorgi\\source\\repos\\Final Project — копия\\Final-Project-December-2022\\WebApi-SQL_SAMPLE\\WebApi-SQL_SAMPLE\\WebApi-SQL_SAMPLE.csproj",
+  "projectFilePath": "C:\\Users\\Giorgi\\source\\repos\\Com Scool 2020 BackEnd course Final Project\\Com-Scool-Back-End-2022-Final-Project\\WebApi-SQL_SAMPLE\\WebApi-SQL_SAMPLE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giorgi\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Giorgi\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",

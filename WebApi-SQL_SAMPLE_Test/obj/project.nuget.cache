@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsWV1yVOcxuY+/ktXUpVnIljOoxYl5hH6yLV8XX70U75ip60L4/eEUDQj+wqKpwKQB2DmayrfG/e1N5VlsFJ5Q==",
+  "dgSpecHash": "O1jBbb8D42zOsBTNCPjKzovr7ZsNLmRZkgJ+z4oN+9GULSNrocGSt9/GkSQrJvvtG9coZYw/+Qk51/bhEFV0gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giorgi\\source\\repos\\Final Project — копия\\Final-Project-December-2022\\WebApi-SQL_SAMPLE\\WebApi-SQL_SAMPLE_Test\\WebApi-SQL_SAMPLE_Test.csproj",
+  "projectFilePath": "C:\\Users\\Giorgi\\source\\repos\\Com Scool 2020 BackEnd course Final Project\\Com-Scool-Back-End-2022-Final-Project\\WebApi-SQL_SAMPLE_Test\\WebApi-SQL_SAMPLE_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giorgi\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Giorgi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

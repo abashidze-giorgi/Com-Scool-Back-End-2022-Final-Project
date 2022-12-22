@@ -6282,11 +6282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Giorgi\\source\\repos\\Final Project — копия\\Final-Project-December-2022\\WebApi-SQL_SAMPLE\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Giorgi\\source\\repos\\Com Scool 2020 BackEnd course Final Project\\Com-Scool-Back-End-2022-Final-Project\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Giorgi\\source\\repos\\Final Project — копия\\Final-Project-December-2022\\WebApi-SQL_SAMPLE\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Giorgi\\source\\repos\\Com Scool 2020 BackEnd course Final Project\\Com-Scool-Back-End-2022-Final-Project\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Giorgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Giorgi\\source\\repos\\Final Project — копия\\Final-Project-December-2022\\WebApi-SQL_SAMPLE\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Giorgi\\source\\repos\\Com Scool 2020 BackEnd course Final Project\\Com-Scool-Back-End-2022-Final-Project\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
