@@ -1,0 +1,121 @@
+{
+  "id": 1,
+  "firstName": "გიორგი",
+  "lastName": "აბაშიძე",
+  "userName": "Gfavaz",
+  "age": 42,
+  "email": "gabashidze99@gmail.com",
+  "salary": 5000,
+  "loans": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": 2,
+      "amount": 45000,
+      "currency": 1,
+      "status": 1,
+      "period": 72,
+      "user": null
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": 2,
+      "amount": 150000,
+      "currency": 6,
+      "status": 1,
+      "period": 72,
+      "user": null
+    }
+  ]
+},
+  {
+    "id": 3,
+    "firstName": "ჩიტიკო",
+    "lastName": "ბალანჩივაძე",
+    "userName": "არჩილყრუ",
+    "age": 40,
+    "email": "ax@mail.ru",
+    "salary": 3,
+    "loans": []
+  },
+  {
+    "id": 4,
+    "firstName": "სანდრო",
+    "lastName": "ჩიჩივიძე",
+    "userName": "ჩიჩვა",
+    "age": 46,
+    "email": "Chichividzesandro@gmail.com",
+    "salary": 5000,
+    "loans": []
+  },
+  {
+    "id": 5,
+    "firstName": "Pietro",
+    "lastName": "Larson",
+    "userName": "Margarete.Franecki",
+    "age": 30,
+    "email": "your.emailfakedata84528@gmail.com",
+    "salary": 9247,
+    "loans": []
+  },
+  {
+    "id": 6,
+    "firstName": "Waldo",
+    "lastName": "Armstrong",
+    "userName": "Barton.Boehm30",
+    "age": 49,
+    "email": "your.emailfakedata49276@gmail.com",
+    "salary": 4346,
+    "loans": []
+  },
+  {
+    "id": 7,
+    "firstName": "Kianna",
+    "lastName": "Willms",
+    "userName": "Jazmyne_Powlowski",
+    "age": 56,
+    "email": "your.emailfakedata33137@gmail.com",
+    "salary": 5133,
+    "loans": []
+  },
+  {
+    "id": 8,
+    "firstName": "Marlin",
+    "lastName": "Kassulke",
+    "userName": "Eric47",
+    "age": 22,
+    "email": "your.emailfakedata40000@gmail.com",
+    "salary": 9133,
+    "loans": []
+  },
+  {
+    "id": 9,
+    "firstName": "Cornelius",
+    "lastName": "Weissnat",
+    "userName": "Merl_Ferry51",
+    "age": 20,
+    "email": "your.emailfakedata36942@gmail.com",
+    "salary": 9249,
+    "loans": []
+  },
+  {
+    "id": 10,
+    "firstName": "Imelda",
+    "lastName": "Muller",
+    "userName": "Ronaldo52",
+    "age": 47,
+    "email": "your.emailfakedata14307@gmail.com",
+    "salary": 6280,
+    "loans": []
+  },
+  {
+    "id": 11,
+    "firstName": "Kian",
+    "lastName": "Abbott",
+    "userName": "Helen.Bartoletti",
+    "age": 38,
+    "email": "your.emailfakedata94238@gmail.com",
+    "salary": 7477,
+    "loans": []
+  }
